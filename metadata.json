@@ -1,0 +1,5 @@
+{
+  "name": "YouTube Downloader",
+  "description": "A fast, clean, and easy-to-use web application to download YouTube videos in various formats and qualities.",
+  "requestFramePermissions": []
+}
